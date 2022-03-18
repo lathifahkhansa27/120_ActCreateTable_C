@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "create table_ACT2", "create table_ACT2\create table_ACT2.csproj", "{058467FB-5844-46AC-92BB-4321F33F6429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058467FB-5844-46AC-92BB-4321F33F6429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058467FB-5844-46AC-92BB-4321F33F6429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058467FB-5844-46AC-92BB-4321F33F6429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058467FB-5844-46AC-92BB-4321F33F6429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EB88762-0144-43E8-A059-6C2F315818ED}
+	EndGlobalSection
+EndGlobal
